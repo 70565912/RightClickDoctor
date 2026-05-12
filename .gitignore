@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+*.tmp
+*.nupkg
+publish/
+*.zip
+right-click-*.json
+right-click-*.csv
+*-probe-report.json
+*-probe-report.csv
