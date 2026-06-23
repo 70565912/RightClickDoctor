@@ -8,6 +8,7 @@ obj/
 *.tmp
 *.nupkg
 publish/
+backups/
 *.zip
 right-click-*.json
 right-click-*.csv
